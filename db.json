@@ -1,0 +1,93 @@
+{
+  "Drinks": [
+    {
+      "id": 1,
+      "nome": "Caipirinha",
+      "preço": 15,
+      "ingredientes": "Cachaça, Limão e Acúcar"
+    },
+    {
+      "id": 2,
+      "nome": "Negroni",
+      "preço": 15,
+      "ingredientes": "Campari, Gin, Vermute doce e uma rodela de laranja"
+    },
+    {
+      "id": 3,
+      "nome": "Piña Colada",
+      "preço": 15,
+      "ingredientes": "Leite de Coco, Leite condensado, suco de abacaxi e Rum"
+    },
+    {
+      "id": 4,
+      "nome": "Margarita",
+      "preço": 15,
+      "ingredientes": "Tequila, Licor de laranja, Suco de limão e Sal"
+    },
+    {
+      "id": 5,
+      "nome": "Sex on the Beach",
+      "preço": 15,
+      "descrição": "Vodka, suco de laranja, e xarope de groselha ou suco de cranberry"
+    }
+  ],
+  "Long Neck": [
+    {
+      "id": 1,
+      "nome": "Heineken",
+      "preço": 10
+    },
+    {
+      "id": 2,
+      "nome": "Budweiser",
+      "preço": 10
+    },
+    {
+      "id": 3,
+      "nome": "Império",
+      "preço": 10
+    },
+    {
+      "id": 4,
+      "nome": "Stella",
+      "preço": 10
+    },
+    {
+      "id": 5,
+      "nome": "Eisenbahn",
+      "preço": 10
+    }
+  ],
+  "Petiscos": [
+    {
+      "id": 1,
+      "nome": "Batata com calabresa",
+      "preço": 18,
+      "descrição": "Contém 500gr de batata, e calabresa frita em rodelas"
+    },
+    {
+      "id": 2,
+      "nome": "Mesa de frios",
+      "preço": 25,
+      "descrição": "Contém 1 dúzia de salame fatiado, 400gr de queijo e presuto cortado em cubos"
+    },
+    {
+      "id": 3,
+      "nome": "Frango a passsarinho",
+      "preço": 20,
+      "descrição": "Contém 1 porção de frango a passarinho temperado e frito"
+    },
+    {
+      "id": 4,
+      "nome": "Isca de carne",
+      "preço": 30,
+      "descrição": "Contém 400gr de alcatra acebolada"
+    },
+    {
+      "id": 5,
+      "nome": "Gurjão de frango",
+      "preço": 25,
+      "descrição": "Contém 400gr de frango em cubos, empanado e frito"
+    }
+  ]
+}
